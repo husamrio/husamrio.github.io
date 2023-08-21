@@ -1,2 +1,1 @@
-# husamrio.github.io
-
+# Web Static
